@@ -1,6 +1,6 @@
 {
-  "name": "mhartl-palindrome",
-  "version": "0.1.0",
+  "name": "amgarrels-palindrome",
+  "version": "0.2.0",
   "description": "Paldindrome detector",
   "main": "index.js",
   "scripts": {
